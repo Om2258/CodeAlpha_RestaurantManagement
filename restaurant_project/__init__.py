@@ -1,0 +1,1 @@
+"""Restaurant Management Django project."""
